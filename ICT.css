@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+    color: floralwhite;
+}
+.title{
+    background-color: black;
+    color: floralwhite;
+    padding: 15px;
+    font-weight: dark;
+}
+.midile{
+    float: left;
+    width: 70%;}
+.left{ 
+    float: left;
+    width: 15%;
+}
+.right { 
+    float:left;
+    width: 15%;
+}

@@ -1,0 +1,56 @@
+body {
+    background-color: cornflowerblue;
+}
+
+p {
+    color: floralwhite;
+}
+.side {
+    background-color: blue;
+    padding: 16px;
+    width: 89%;
+}
+.menu{ 
+    color: floralwhite;
+    border: 3px solid cornflowerblue;
+    padding: 8px;
+    margin: 5px;
+}
+.left{ float: left;
+    width: 19%;
+
+}
+.right { 
+    float:left;
+    width: 36%;
+
+}
+a{
+    color: floralwhite;
+}
+a:visited{
+    color: floralwhite;
+}
+
+a:hover{
+    color: lightpink;
+}
+span{
+    font-weight: bold;
+}
+.title{
+    background-color: black;
+    color: floralwhite;
+    padding: 15px;
+    font-weight: dark;
+}
+.midile{
+    float: left;
+    width: 45%;
+}
+.About{
+    color: floralwhite;
+    border: 3px solid cornflowerblue;
+    padding: 5px;
+    margin: 4px;}
+
