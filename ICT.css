@@ -29,7 +29,7 @@ img{
     background-color: #828282;
     overflow: hidden;
     text-align: center;
-    padding: 10px;
+    padding: 13px;
   }
   
   /* Style the links inside the navigation bar */
@@ -91,3 +91,14 @@ img{
     background-color: #2004aa;
     color: white;
   }
+.flex{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.blok{
+  width: 50%;
+  min-width: 400px;
+  padding: 10px;
+border: 6px solid blue;
+}
