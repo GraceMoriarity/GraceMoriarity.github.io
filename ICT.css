@@ -10,7 +10,7 @@ body{
 }
 .midile{
     display: flex;  
-    justify-content: center;  
+    justify-content: center; 
 }
 img{
   border: 20px solid blue;
